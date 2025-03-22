@@ -10,3 +10,6 @@ INSERT INTO student VALUES(1,'Ali',18);
 INSERT INTO student VALUES(2,'Arsel',20);
 
 SELECT * from student;
+show tables;
+
+drop table student;
