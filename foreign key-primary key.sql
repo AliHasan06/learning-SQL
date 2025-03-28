@@ -1,4 +1,4 @@
-
+create data
 create table student(
 rollno INT ,
 name varchar(50),
