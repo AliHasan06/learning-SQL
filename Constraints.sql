@@ -22,5 +22,6 @@ VALUES
     (106, "farah", 82, "B", "Delhi");
     
 select rollno , name , grade from student;    
-select rollno , name , grade from student where grade = "A";  
+select rollno , name , grade from student where grade = "A"; 
+select * from student where marks between 80 and 90; 
   
