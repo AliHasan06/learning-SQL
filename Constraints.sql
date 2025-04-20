@@ -24,4 +24,5 @@ VALUES
 select rollno , name , grade from student;    
 select rollno , name , grade from student where grade = "A"; 
 select * from student where marks between 80 and 90; 
+select * from student where city in ("Delhi","Mumbai"); 
   
