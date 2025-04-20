@@ -20,3 +20,7 @@ VALUES
     (104, "dhruv", 96, "A", "Delhi"),
     (105, "emanuel", 12, "F", "Delhi"),
     (106, "farah", 82, "B", "Delhi");
+    
+select rollno , name , grade from student;    
+select rollno , name , grade from student where grade = "A";  
+  
